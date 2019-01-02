@@ -1,0 +1,123 @@
+cara install :
+
+$ apt update && apt upgrade
+$ apt install git
+$ https://github.com/ImamIlyasa12/DefaceWebdav
+$ cd DefaceWebdav
+$ sh DefaceWebdav
+
+fitur yang tersedia :
+~A.Tebas Index
+~B.Web Scan
+~C.Auto Deface
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+CARA PAKAI :
+
+
+
+~{A}.Tebas Index
+
+~01. Dork:
+
+intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” 
+
+intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:edu 
+
+intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:gov 
+
+intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:YOURCOUNTRY 
+
+Kembangkan saja dork nya sesuai imajinasi kalean ya :v
+(misal: my, us, th, com. dll) 
+
+inurl:webdav 
+inurl:.com.x/*.asp 
+inurl:.edu.x/*.asp 
+inurl:.gov.x/*.asp 
+inurl:.net.x/*.asp
+inurl:.org.x/*.asp
+
+dork masih banyak lagi
+cari di google kimak :v
+
+-02. lalu cari web nyah dengan dork tadi di mbah google :v
+
+lalu kalian buka tools Defacer nyah
+
+ketik 1
+Masukan target
+Kemudian kalian masukan SC kalian dengan nama index.html
+
+Kalo berhasil tertebas muncul link target di bawah
+
+LIVE TARGET TEBAS INDEX!!!
+
+http://contsol.co.za
+http://colourfactory.co.za
+http://chillibitez.co.za
+http://chasingfantasia.com
+http://centraltech.co.za
+http://cblandscapes.co.za
+http://bee-it.co.za
+http://butterflowers.co.za
+http://bananabox.co.za
+http://ayk.co.za
+http://ads247.co.za
+http://allpaint.co.za
+http://atlanticphysio.co.za
+http://valdicare.co.za
+http://vmicl.co.za
+http://troon.co.za
+http://nyarhi.co.za
+http://nitrobikes.co.za
+http://nhisa.co.za
+http://netcallcollect.co.za
+http://naturaleyeimages.com
+http://mpark.co.za
+http://moneyin1week.co.za
+http://mix007.co.za
+http://mediacube.co.za
+http://megro.co.za
+http://menogold.co.za
+http://mestern.co.za
+http://tcmgroup.co.za
+http://sublimeconfectionery.co.za
+http://tieronecapital.co.za
+http://thegiftstore.co.za
+http://thefoundation.co.za
+http://tressor.co.za
+
+
+
+
+~{B}.Web Scan
+
+Web Scan adalah tools yg berfungsi untuk mencari kelemahan sebuah website seperti server,ip,domain,dll
+
+cara penggunaannya kalian jalankan tools Defacer nya, kemudian ketik "B" lalu masukan websita target yg mau di scan.
+
+Contoh: www.website.com
+
+kemudian pilih 1 atau 2 
+1.http://
+2.https://
+
+
+
+~{C}.AUTO DEFACE 20
+
+Yg ini sama dengan yg No: 1 cuma bedanya yg ini Deface 20 website secara bersamaan
+Cara menggunakannya
+
+buka tools Defacer
+cd DefaceWebdav
+sh DefaceWebdav
+
+ketik C
+
+Kemudian Masukan SC deface kalian, Setelah itu di suruh memasukan target, kalian masukan target kalian kemudian klik enter dan seterusnya begitu😂
+
+
+Mohon maaf bila ada kesalahan atau kekurangan😂
